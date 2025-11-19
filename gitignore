@@ -1,0 +1,11 @@
+# Clyde secrets / config
+clyde/config.json
+clyde/*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
