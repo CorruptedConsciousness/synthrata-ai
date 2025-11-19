@@ -1,0 +1,12 @@
+# Clyde Memory System
+
+Clyde stores long-term memory in JSON format.
+
+- `memory.json` — persistent memory store
+- `memory_handler.py` — load/search/save helper functions
+- `generate_key.py` — creates a secret key for local encryption (optional)
+
+This system will be expanded later to support:
+- embeddings
+- semantic search
+- encrypted vaults
