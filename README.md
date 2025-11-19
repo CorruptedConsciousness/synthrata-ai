@@ -74,5 +74,4 @@ This repository serves as the central development hub for the entire system.
 
 ---
 
-# 🧱 Repo Structure (planned)
 
