@@ -1,27 +1,78 @@
-# Synthrata AI
+# Synthrata AI  
+### Dual-persona agentic assistants with a security-first design (Clyde & Bonnie)
 
-An evolving, privacy-focused, agentic assistant system built around a dual-persona architecture (Clyde & Bonnie).  
-Designed for counter-surveillance workflows, secure personal automation, and experimental human-AI interaction.
+Synthrata AI is an evolving, privacy-focused assistant system built around a **dual-persona architecture**:
 
-## 🔥 Core Concepts
+- **Clyde** — the analytical, security-hardened sentinel  
+- **Bonnie** — the supportive, conversational guide  
 
-- **Local-first LLM tools** (offline-capable workflows)
-- **Retrieval-Augmented Generation (RAG)** and memory recall systems
-- **Security-hardened assistant design**
-- **Personality-driven UX models**
-- **CLI prototypes for Clyde**
-- **Future GUI + IoT integrations (Magic Mirror, Pi setups, sensors)**
+Together, they form an agentic system capable of secure local workflows, counter-surveillance tasks, automation, and expressive personality-driven interaction.
 
-## 🧩 Project Goal
+This project represents my long-term flagship system — the one I intend to evolve for years.
+
+---
+
+# 🔥 Core Concepts
+
+### **Local-first AI tools**
+- Offline-capable workflows  
+- Local LLM support  
+- OS-level integrations  
+- Command-line autonomy  
+
+### **RAG Memory Architecture**
+- Retrieval-Augmented Generation  
+- Multi-level memory:  
+  - short-term  
+  - long-term  
+  - encrypted local store  
+- Structured conversation logs for context recall  
+
+### **Security-Hardened Design**
+- Zero-cloud requirement  
+- Counter-surveillance workflows  
+- System monitoring  
+- Encrypted configuration  
+- Observable / explainable actions  
+
+### **Persona-driven UX**
+Each assistant behaves differently:
+
+**Clyde (The Sentinel)**  
+- stoic • hyperlogical • investigative  
+- cybersecurity + workflow automation  
+- CLI-first  
+- precise, terse, tactical  
+
+**Bonnie (The Guide)**  
+- friendly • witty • supportive  
+- conversational teaching + motivation  
+- helpful explanations  
+- user-facing personality + emotional intelligence  
+
+### **Future GUI + IoT Integration**
+- Magic Mirror UI (Raspberry Pi 5)  
+- Hardware sensors  
+- Audio interaction  
+- Desktop widgets  
+- Intelligent workstation agent  
+
+---
+
+# 🎯 Project Goals
 
 Synthrata aims to unify:
-- A security-focused command-line assistant (Clyde)
-- A conversational, supportive personality layer (Bonnie)
-- Local and cloud models
-- RAG pipelines
-- Hardware endpoints (Magic Mirror, Pi 5, workstation assistants)
 
-This repo will act as the central hub as the system evolves.
+- A **security-focused command-line assistant** (Clyde)  
+- A **conversational, supportive personality layer** (Bonnie)  
+- Local and cloud inference options  
+- RAG-based reasoning pipelines  
+- IoT integrations and hardware endpoints  
+- Fully local encrypted memory  
 
-## 🗂️ Repo Structure (planned)
+This repository serves as the central development hub for the entire system.
+
+---
+
+# 🧱 Repo Structure (planned)
 
