@@ -36,3 +36,15 @@ Tool-calling
 Agents and workflows
 
 Local model fallback (Ollama, LM Studio)
+
+🚀 Running Clyde (Local Example)
+  cd clyde
+  python clyde.py
+
+🧪 Example Usage
+  You: Hello Clyde
+  Clyde: Greetings. Standing by.
+
+To stop Clyde:
+  exit
+
