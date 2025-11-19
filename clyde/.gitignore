@@ -1,0 +1,10 @@
+# Sensitive keys
+*.key
+secret.key
+
+# Local config with your actual API key
+clyde_config.json
+
+# Python cache
+__pycache__/
+*.pyc
