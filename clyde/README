@@ -1,0 +1,38 @@
+🚨 Clyde — Synthrata’s Command-Line AI Assistant
+
+Clyde is the core agent of the Synthrata AI system — a security-focused, local-first command-line assistant designed for privacy, autonomy, and extensibility.
+Where Bonnie handles high-level conversational UX, Clyde is the engine, executing tasks, recalling memory, and interacting with APIs and tools.
+
+⚡ Overview
+
+Clyde is:
+
+🧠 Local-first when possible, with optional cloud API calls
+
+🔒 Security-aware, designed for counter-surveillance and privacy workflows
+
+💬 Conversational, with a persistent message loop
+
+⚙️ Modular, with clean structure for future tools, plugins, and RAG pipelines
+
+🛠️ Developer-friendly, written in Python and easy to extend
+
+Current capabilities:
+
+API-based LLM responses
+
+JSON config loading
+
+Dynamic system prompts
+
+Terminal message loop
+
+Planned capabilities:
+
+Vector memory
+
+Tool-calling
+
+Agents and workflows
+
+Local model fallback (Ollama, LM Studio)
