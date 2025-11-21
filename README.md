@@ -40,7 +40,7 @@ Each assistant behaves differently:
 
 **Clyde (The Sentinel)**  
 - stoic • hyperlogical • investigative  
-- cybersecurity + workflow automation  
+- cybersecurity/counter-surveillance + workflow automation  
 - CLI-first  
 - precise, terse, tactical  
 
