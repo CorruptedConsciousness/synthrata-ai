@@ -1,7 +1,7 @@
 # Synthrata AI  
-### Dual-persona agentic assistants with a security-first design (Clyde & Bonnie)
+### Creating a dual-persona agentic assistants with a security-first design (Clyde & Bonnie)
 
-Synthrata AI is an evolving, privacy-focused assistant system built around a **dual-persona architecture**:
+Synthrata AI;s evolving, privacy-focused assistant system is built around a **dual-persona architecture**:
 
 - **Clyde** — the analytical, security-hardened sentinel  
 - **Bonnie** — the supportive, conversational guide  
